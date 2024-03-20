@@ -1,5 +1,0 @@
-cargo:rerun-if-changed=.git/index
-cargo:rerun-if-changed=.git/HEAD
-cargo:rerun-if-changed=.git/refs
-cargo:rustc-env=GIT_REVISION=78c1bd01c78fd0f7f9059016e6c2d075a98a7024-dirty
-
